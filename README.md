@@ -12,6 +12,6 @@
 + the edge of shadow is very sharp. using blurRadius to make shadow is blur
 + SpreadRadius to expand the area of shadow.
 9. display: inline-block: to convert a block element to inline element
-
+10. border-left: border-width border-style color: the shortand to set values for border-width, border-style and color if border.
 
 
