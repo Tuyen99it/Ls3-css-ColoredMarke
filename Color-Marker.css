@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    margin:5px 0 -5px 0;
+    background-color: rgb(255,255,255);
+}
+.container{
+    background-color: white;
+}
+.market{
+    
+    margin:auto;
+}
+.red{
+    background:linear-gradient(180deg, rgb(122,74,14), rgb(245,62, 113) 50%,rgb(162,27,27) 100%);
+    width:80%;
+    height: 25px;
+    margin: 10px auto;
+    box-shadow: -5px -5px 4px 0px red;
+}
+.cap, .sleeve{
+    display: inline-block;
+}
+.cap{
+    width:10%;
+    height:25px;
+}
+.sleeve{
+    width: 30%;
+    height: 25px;
+    background-color: rgba(255,255,255,0.5);
+    border-left: 3px solid rgba(0,0,0,0.75);
+}
+.green{
+   background:linear-gradient(180deg,#55680D 0%,#71F53E 50%, #116c31 100%);
+    width:80%;
+    height: 25px;
+    margin: 10px auto;
+    box-shadow: 0 0 3px 3px green;
+}    
+.blue{
+   background:linear-gradient(180deg, hsl(186 56% 42%),hsl(220 90% 60%), hsl(240 56% 42%));
+    width:80%;
+    height: 25px;
+    margin: 10px auto;
+    box-shadow: 5px 5px 3px 0 blue;
+}
